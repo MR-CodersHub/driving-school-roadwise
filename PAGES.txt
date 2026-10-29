@@ -1,0 +1,7 @@
+ROADWISE MAIN PAGES PACKAGE
+
+Public pages: index.html, home2.html, about.html, services.html, courses.html, instructors.html, blog.html, contact.html, booking.html, faq.html, success.html, 404.html
+Account pages: login.html, register.html, reset.html
+Dashboard pages: student.html, admin.html
+
+Keep css/, js/, and assets/ beside these HTML files. Each page is a separate HTML entry point and uses the shared application code. Login is compacted to fit a single viewport with no page scrolling on typical desktop and mobile viewport heights.
